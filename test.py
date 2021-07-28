@@ -1,1 +1,4 @@
-file = open("test.txt","w")
+
+def openFile(filename)
+  file = open(filename,"w")
+ 
